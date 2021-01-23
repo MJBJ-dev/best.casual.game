@@ -31,6 +31,9 @@ lemmatechnologies.com, 362, RESELLER
 telaria.com, rwd19-2956538, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-2956538, RESELLER, 1a4e959a1b50034a
 
+#Facebook
+facebook.com, 911748518900117, RESELLER, c3e20eee3f780d68
+
 #Applovin
 applovin.com, a795b15894f8d6d26c8a80e6dd878ed5, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
