@@ -1,3 +1,5 @@
+#First uploading from 2021/01/24
+
 #Google
 google.com, pub-7981832141995177, DIRECT, f08c47fec0942fa0
 google.com, pub-5761378224098372, DIRECT, f08c47fec0942fa0
